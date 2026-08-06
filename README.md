@@ -116,22 +116,6 @@ https://github.com/jmsago
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=jmsago&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsago&layout=compact&langs_count=7&theme=github_dark"
-  />
-</p>
-
----
-
 <p align="center">
   <i>"A tecnologia transforma ideias em soluções."</i>
 </p>
