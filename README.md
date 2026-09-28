@@ -108,14 +108,6 @@ Atuar como **Estagiário em Desenvolvimento de Software**, adquirindo experiênc
 
 📧 **Email:** jmsalves2019@gmail.com
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/joao-marcos-3215b8389
-
-🐙 **GitHub:**  
-https://github.com/jmsago
-
----
-
 <p align="center">
   <i>"A tecnologia transforma ideias em soluções."</i>
 </p>
