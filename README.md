@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação | Desenvolvedor Back-end em formação`**
 
-Olá! Me chamo **João Marcos de Sá Alves** e atualmente estou cursando o **8º período de Bacharelado em Sistemas de Informação** na **Universidade Estadual de Goiás (UEG)**.
+Olá! Me chamo **João Marcos** e atualmente estou cursando o **8º período de Bacharelado em Sistemas de Informação** na **Universidade Estadual de Goiás (UEG)**.
 
 Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos pessoais e acadêmicos.
 
